@@ -1,0 +1,60 @@
+customer,ns_id,invoice,issued,line,qty,unit_cents,amount,service_from,product,price_id
+"Alder Fieldworks, Inc.",186097,RC-261001-186097-U,2026-10-01,Workflow run overage,17967,8.00,1437.36,2026-09-01,prod_workflow_run,price_381774ac58d066
+"Alder Fieldworks, Inc.",186097,RC-260901-186097-P,2026-09-01,Annual platform invoice,1,,24000.0,2026-09-01,prod_platform,price_5640985be322d9
+"Brookstone Data, Inc.",866587,RC-261001-866587-U,2026-10-01,Workflow run overage,22624,8.00,1809.92,2026-09-01,prod_workflow_run,price_9983ae4a2133a2
+"Brookstone Data, Inc.",866587,RC-260901-866587-P,2026-09-01,Annual platform invoice,1,,24000.0,2026-09-01,prod_platform,price_5bc7193acd18ba
+"Copper Finch Systems, Inc.",477694,RC-261001-477694-U,2026-10-01,Workflow run overage,16698,8.00,1335.84,2026-09-01,prod_workflow_run,price_61a31ab3d8e844
+"Copper Finch Systems, Inc.",477694,RC-260901-477694-P,2026-09-01,Annual platform invoice,1,,24000.0,2026-09-01,prod_platform,price_c04c14b5aa5112
+"Driftwood Research, Inc.",731059,RC-261001-731059-U,2026-10-01,Workflow run overage,15252,8.00,1220.16,2026-09-01,prod_workflow_run,price_ff5929ce193d04
+"Driftwood Research, Inc.",731059,RC-260901-731059-P,2026-09-01,Annual platform invoice,1,,24000.0,2026-09-01,prod_platform,price_4bf494c8f043e9
+"Evergreen Dispatch, Inc.",436791,RC-261001-436791-U,2026-10-01,Workflow run overage,30779,8.00,2462.32,2026-09-01,prod_workflow_run,price_1cbbb90b49ff02
+"Evergreen Dispatch, Inc.",436791,RC-260901-436791-P,2026-09-01,Annual platform invoice,1,,24000.0,2026-09-01,prod_platform,price_f7b4c7b9450f10
+"Falcon Ridge Software, Inc.",286595,RC-261001-286595-U,2026-10-01,Workflow run overage,84006,8.00,6720.48,2026-09-01,prod_workflow_run,price_70328d78a2001b
+"Falcon Ridge Software, Inc.",286595,RC-260901-286595-P,2026-09-01,Annual platform invoice,1,,24000.0,2026-09-01,prod_platform,price_b401bc03ebbbb0
+"Granite Orchard, Inc.",963044,RC-261001-963044-U,2026-10-01,Workflow run overage,43725,8.00,3498.0,2026-09-01,prod_workflow_run,price_53b0da1850ff1d
+"Granite Orchard, Inc.",963044,RC-260901-963044-P,2026-09-01,Annual platform invoice,1,,24000.0,2026-09-01,prod_platform,price_217eaf3be356b3
+"Highwater Studio, Inc.",142182,RC-261001-142182-U,2026-10-01,Workflow run overage,71767,8.00,5741.36,2026-09-01,prod_workflow_run,price_560cf00d4bee32
+"Highwater Studio, Inc.",142182,RC-260901-142182-P,2026-09-01,Annual platform invoice,1,,24000.0,2026-09-01,prod_platform,price_91540cee9cc42d
+"Indigo Trail Networks, Inc.",620310,RC-261001-620310-U,2026-10-01,Workflow run overage,37899,8.00,3031.92,2026-09-01,prod_workflow_run,price_2d5090e57b0d8b
+"Indigo Trail Networks, Inc.",620310,RC-260901-620310-P,2026-09-01,Annual platform invoice,1,,24000.0,2026-09-01,prod_platform,price_3be7578a702683
+"Juniper Bay Analytics, Inc.",879513,RC-261001-879513-U,2026-10-01,Workflow run overage,26145,8.00,2091.6,2026-09-01,prod_workflow_run,price_fc2d8cbd3fea45
+"Juniper Bay Analytics, Inc.",879513,RC-260901-879513-P,2026-09-01,Annual platform invoice,1,,24000.0,2026-09-01,prod_platform,price_096b7d96fd7606
+"Kestrel Bridge, Inc.",654552,RC-261001-654552-U,2026-10-01,Workflow run overage,45392,6.00,2723.52,2026-09-01,prod_workflow_run,price_5c58322770ec47
+"Kestrel Bridge, Inc.",654552,RC-260901-654552-P,2026-09-01,Monthly platform invoice,1,,3000.0,2026-09-01,prod_platform,price_98ff31fb7bce61
+"Larch Point Services, Inc.",232251,RC-261001-232251-U,2026-10-01,Workflow run overage,23422,6.00,1405.32,2026-09-01,prod_workflow_run,price_0ae0fd8f49926a
+"Larch Point Services, Inc.",232251,RC-260901-232251-P,2026-09-01,Monthly platform invoice,1,,3000.0,2026-09-01,prod_platform,price_82b373c28bd3b1
+"Maple Lantern, Inc.",507826,RC-261001-507826-U,2026-10-01,Workflow run overage,79705,6.00,4782.3,2026-09-01,prod_workflow_run,price_d6d7491b83adcf
+"Maple Lantern, Inc.",507826,RC-260901-507826-P,2026-09-01,Monthly platform invoice,1,,3000.0,2026-09-01,prod_platform,price_83a288483c6e60
+"Northbank Design, Inc.",553102,RC-261001-553102-U,2026-10-01,Workflow run overage,24232,6.00,1453.92,2026-09-01,prod_workflow_run,price_7db9ec52a14c8e
+"Northbank Design, Inc.",553102,RC-260901-553102-P,2026-09-01,Monthly platform invoice,1,,3000.0,2026-09-01,prod_platform,price_667566293e204a
+"Oak Harbor Digital, Inc.",300468,RC-261001-300468-U,2026-10-01,Workflow run overage,32484,6.00,1949.04,2026-09-01,prod_workflow_run,price_4e881d71b836ca
+"Oak Harbor Digital, Inc.",300468,RC-260901-300468-P,2026-09-01,Monthly platform invoice,1,,3000.0,2026-09-01,prod_platform,price_d45525ec0de0b4
+"Pine Summit Logistics, Inc.",561562,RC-261001-561562-U,2026-10-01,Workflow run overage,41609,6.00,2496.54,2026-09-01,prod_workflow_run,price_ac511be9087299
+"Pine Summit Logistics, Inc.",561562,RC-260901-561562-P,2026-09-01,Monthly platform invoice,1,,3000.0,2026-09-01,prod_platform,price_c01c6a3250d485
+"Quartz Meadow, Inc.",730965,RC-261001-730965-U,2026-10-01,Workflow run overage,76137,6.00,4568.22,2026-09-01,prod_workflow_run,price_c4d7fd8d86931e
+"Quartz Meadow, Inc.",730965,RC-260901-730965-P,2026-09-01,Monthly platform invoice,1,,3000.0,2026-09-01,prod_platform,price_b26f9d11d6a10d
+"Riverbend Operations, Inc.",856042,RC-261001-856042-U,2026-10-01,Workflow run overage,3674,6.00,220.44,2026-09-01,prod_workflow_run,price_14d7b586bd51b7
+"Riverbend Operations, Inc.",856042,RC-260901-856042-P,2026-09-01,Monthly platform invoice,1,,3000.0,2026-09-01,prod_platform,price_dec0034357f371
+"Silver Current, Inc.",676664,RC-261001-676664-U,2026-10-01,Workflow run overage,45892,6.00,2753.52,2026-09-01,prod_workflow_run,price_c4e655d1afc8e3
+"Silver Current, Inc.",676664,RC-260901-676664-P,2026-09-01,Monthly platform invoice,1,,3000.0,2026-09-01,prod_platform,price_a54bd7f05fb41e
+"Timberline Insights, Inc.",941670,RC-261001-941670-U,2026-10-01,Workflow run overage,59347,6.00,3560.82,2026-09-01,prod_workflow_run,price_6264d1dc05c941
+"Timberline Insights, Inc.",941670,RC-260901-941670-P,2026-09-01,Monthly platform invoice,1,,3000.0,2026-09-01,prod_platform,price_a4f42e7e3b1e7c
+"Juniper Signal Works, Inc.",437384,RC-261001-437384-U,2026-10-01,Workflow run overage,27000,16.00,4320.0,2026-09-01,prod_workflow_run,price_9163e0b6ff40e5
+"Juniper Signal Works, Inc.",437384,RC-260901-437384-P,2026-09-01,Monthly platform invoice,1,,4000.0,2026-09-01,prod_platform,price_23a9ed117ac3f2
+"Westhaven Metrics, Inc.",240793,RC-261001-240793-U,2026-10-01,Workflow run overage,23957,5.00,1197.85,2026-09-01,prod_workflow_run,price_eb109471a097a5
+"Westhaven Metrics, Inc.",240793,RC-260901-240793-P,2026-09-01,Monthly platform invoice,1,,4000.0,2026-09-01,prod_platform,price_504d0c6d289ae1
+"Cedar Harbor Labs, Inc.",639373,RC-261001-639373-U,2026-10-01,Workflow run overage,30608,40.00,12243.2,2026-09-01,prod_workflow_run,price_d4df07e296da8f
+"Cedar Harbor Labs, Inc.",639373,RC-260901-639373-P,2026-09-01,Monthly platform invoice,1,,4000.0,2026-09-01,prod_platform,price_923e1b68bfb961
+"Meridian Process Systems, Inc.",335780,RC-261001-335780-U,2026-10-01,Workflow run overage,24879,12.00,2985.48,2026-09-01,prod_workflow_run,price_b2696267151ea8
+"Meridian Process Systems, Inc.",335780,RC-260901-335780-P,2026-09-01,Monthly platform invoice,1,,4000.0,2026-09-01,prod_platform,price_20f32fcc74d3f4
+"Yarrow Ridge, Inc.",188999,RC-261001-188999-U,2026-10-01,Workflow run overage,26347,12.00,3161.64,2026-09-01,prod_workflow_run,price_043ecc4829e482
+"Yarrow Ridge, Inc.",188999,RC-260901-188999-P,2026-09-01,Monthly platform invoice,1,,4000.0,2026-09-01,prod_platform,price_aaadb400b277b8
+"Zephyr Grove, Inc.",148565,RC-261001-148565-U,2026-10-01,Workflow run overage,17822,5.00,891.1,2026-09-01,prod_workflow_run,price_1aee1d9c16841c
+"Zephyr Grove, Inc.",148565,RC-260901-148565-P,2026-09-01,Monthly platform invoice,1,,4000.0,2026-09-01,prod_platform,price_1a32017ef56e24
+"Aspen Vale, Inc.",314334,RC-261001-314334-U,2026-10-01,Workflow run overage,8314,5.00,415.7,2026-09-01,prod_workflow_run,price_c44fc34ceb4519
+"Aspen Vale, Inc.",314334,RC-260901-314334-P,2026-09-01,Monthly platform invoice,1,,4000.0,2026-09-01,prod_platform,price_589e9ea468897e
+"Beacon Marsh, Inc.",810234,RC-261001-810234-U,2026-10-01,Workflow run overage,15654,10.00,1565.4,2026-09-01,prod_workflow_run,price_946be67f09fcca
+"Beacon Marsh, Inc.",810234,RC-260901-810234-P,2026-09-01,Monthly platform invoice,1,,4000.0,2026-09-01,prod_platform,price_95c17005ce53f5
+"Crescent Shore, Inc.",260381,RC-261001-260381-U,2026-10-01,Workflow run overage,3200,4.00,128.0,2026-09-15,prod_workflow_run,price_b98f8e9f741cf7
+"Crescent Shore, Inc.",260381,RC-260915-260381-P,2026-09-15,Monthly platform invoice,1,,5000.0,2026-09-15,prod_platform,price_1f98e39e707207
+"Willow Passage, Inc.",839653,RC-260915-839653-P,2026-09-15,Monthly platform invoice,1,,5000.0,2026-09-15,prod_platform,price_f39e2217f073b7

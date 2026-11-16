@@ -1,0 +1,12 @@
+file,expected_rows
+usage_batch_controls.csv,61
+stripe_invoices.csv,128
+stripe_invoice_lines.csv,128
+stripe_credit_notes.csv,3
+stripe_credit_note_lines.csv,3
+netsuite_opening_balances.csv,120
+netsuite_gl_detail.csv,360
+netsuite_revenue_plan_detail.csv,373
+salesforce_accounts.csv,30
+product_account_mapping.csv,32
+usage_unique_records,1924
